@@ -6,4 +6,4 @@
 - [x] Modifier le fichier `README.md`
 - [ ] Commencer KiCad 
 
-CACA
+CACA2
